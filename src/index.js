@@ -1,7 +1,3 @@
-// import './styles.css';
-// import './templates/templateCountry.hbs';
-
-
 import './scss/styles.scss';
 import '@pnotify/core/dist/BrightTheme.css';
 import lodash from 'lodash';
