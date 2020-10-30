@@ -17,5 +17,5 @@ export const renderCountryList = countryArr => {
 };
 
 const renderCountryListItem = arr => arr.reduce((acc, item) => {
-      return (acc += `<li class="countryListItem">${item.name}</li>`)
+    return (acc += `<li class="countryListItem">${item.name}</li>`)
       }, '');
